@@ -73,7 +73,8 @@ const styles = {
     justifyContent: "center",
     alignItems: "center",
     height: "100vh",
-    backgroundColor: "#f7f7f7",
+    backgroundColor: "black",
+    color:'white'
   },
   header: {
     fontSize: "2rem",
@@ -82,10 +83,11 @@ const styles = {
   form: {
     display: "flex",
     flexDirection: "column",
-    backgroundColor: "#fff",
+    backgroundColor: "black",
     padding: "20px",
     borderRadius: "8px",
     boxShadow: "0 4px 8px rgba(0,0,0,0.1)",
+     color:'white'
   },
   inputContainer: {
     marginBottom: "15px",
@@ -95,14 +97,14 @@ const styles = {
     padding: "10px",
     fontSize: "1rem",
     borderRadius: "4px",
-    border: "1px solid #ccc",
+    border: "1px solid black",
     marginTop: "5px",
   },
   button: {
     padding: "10px 15px",
     fontSize: "1rem",
-    backgroundColor: "#28a745",
-    color: "#fff",
+    backgroundColor: "lime",
+    color: "white",
     border: "none",
     borderRadius: "4px",
   }}

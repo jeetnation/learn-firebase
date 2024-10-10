@@ -81,19 +81,22 @@ const styles = {
     justifyContent: "center",
     alignItems: "center",
     height: "100vh",
-    backgroundColor: "#f7f7f7",
+    backgroundColor: "black",
+    
   },
   header: {
     fontSize: "2rem",
     marginBottom: "20px",
+    color:'white'
   },
   form: {
     display: "flex",
     flexDirection: "column",
-    backgroundColor: "#fff",
+    backgroundColor: "black",
     padding: "20px",
     borderRadius: "8px",
     boxShadow: "0 4px 8px rgba(0,0,0,0.1)",
+    color:'white'
   },
   inputContainer: {
     marginBottom: "15px",
